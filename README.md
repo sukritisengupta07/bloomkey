@@ -1,8 +1,8 @@
 # 🌸 bloomkey
 
-Type a password and watch a flower grow. A cute, privacy-friendly password strength checker built with plain HTML, CSS and JavaScript.
+type a password and watch a flower grow!! a cute, privacy-friendly password strength checker built with plain HTML, CSS and JavaScript :)
 
-**Live demo:** https://YOUR-USERNAME.github.io/bloomkey/
+**Live demo:** Live demo: https://sukritisengupta07.github.io/bloomkey/
 
 ## Features
 - Plant grows through 6 stages (empty pot → seed → sprout → budding → blooming → full bloom) as password strength improves
@@ -21,4 +21,4 @@ HTML, CSS (custom properties for theming), vanilla JavaScript, inline SVG
 Open `index.html` in any browser. No install needed.
 
 ## Limitations
-Educational project. Scoring is rule-based, and crack time assumes 10 billion guesses/second against a fast hash. Real attackers use smarter guessing, so treat the result as a rough guide.
+An educational project. Scoring is rule-based and crack time assumes 10 billion guesses/second against a fast hash. Real attackers use smarter guessing, so treat the result as a rough guide :(
